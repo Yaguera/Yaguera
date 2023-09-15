@@ -1,4 +1,4 @@
-### Olá, me chamo Yago Gomes 👋 <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif width: "10">
+### Olá, me chamo Yago Gomes 👋 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif" style="display: inline-block">
 
 ![Yago's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaguera&show_icons=true&theme=dracula)
 
