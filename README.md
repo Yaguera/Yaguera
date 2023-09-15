@@ -1,18 +1,9 @@
-![Yago's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaguera&show_icons=true&theme=dracula)
 
-## As tecnologias que estou aprendendo
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaguera)](https://github.com/yaguera/github-readme-stats)
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Yaguera/Yaguera/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
-<p align="center"> Hello, my name is Yago,👋 <br><br> I am studying  to be a Full Stack Web Developer, I am <strong>passionate to discover</strong> new stuffs and search for many ways to solve a problem. Today, I'm pursuing a degree in <strong>Analysis and System Development</strong> enrolled in a 
-Full Stack Python course at EBAC</p>&nbsp;
+<h1 align="center"> Hello, my name is Yago,👋</h1>
+<p align="center">I am studying  to be a Full Stack Web Developer, I am <strong>passionate to discover</strong> new stuffs and search for many ways to solve a problem. Today, I'm pursuing a degree in <strong>Analysis and System Development</strong> enrolled in a Full Stack Python course at EBAC.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Yaguera&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-yaguera.vercel.app/api/top-langs/?username=yaguera&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
@@ -34,3 +25,22 @@ Full Stack Python course at EBAC</p>&nbsp;
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Studying in this moment:
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+
+#### Workstation Tools:
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+&nbsp;
+&nbsp;
+
+<div  align="center" style="margin-bottom:100px">
+<img width=50% src="https://github-readme-stats.vercel.app/api?username=yaguera&show_icons=true&theme=dracula" />
+ </div>
+
+
+## As tecnologias que estou aprendendo
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaguera)](https://github.com/yaguera/github-readme-stats)
