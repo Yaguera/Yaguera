@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hello, my name is Yago,👋</h1>
-<p align="center">I am studying  to be a Full Stack Web Developer, I am <strong>passionate to discover</strong> new stuffs and search for many ways to solve a problem. Today, I'm pursuing a degree in <strong>Analysis and System Development at UNIFOR</strong> and enrolled in a Full Stack Python course at EBAC.</p>&nbsp;
+<p align="center">I am studying  to be a Full Stack Web Developer, I am <strong>passionate to discover</strong> new stuffs and search for many ways to solve a problem. Today, I'm pursuing a degree in <strong>Analysis and System Development at UNIFOR</strong> and enrolled in a<strong> Full Stack Python course at EBAC</strong>.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Yaguera&theme=radical&mode=weekly" />
