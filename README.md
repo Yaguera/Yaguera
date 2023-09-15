@@ -1,4 +1,5 @@
-### Olá, me chamo Yago Gomes 👋 
+### Hi, i'm Yago, 
+:computer: I'm Front-End Developer! 👋 
 
 ![Yago's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaguera&show_icons=true&theme=dracula)
 
