@@ -1,6 +1,3 @@
-### Hello, i'm Yago,👋  
-:computer: I'm studing to become a Full-Stack Developer!
-
 ![Yago's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaguera&show_icons=true&theme=dracula)
 
 ## As tecnologias que estou aprendendo
@@ -10,7 +7,8 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Yaguera/Yaguera/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center"> Hello, my name is Yago,👋 <br><br> I am studying  to be a Full Stack Web Developer, I am <strong>passionate to discover</strong> new stuffs and search for many ways to solve a problem. Today, I'm pursuing a degree in <strong>Analysis and System Development</strong> enrolled in a 
+Full Stack Python course at EBAC</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Yaguera&theme=radical&mode=weekly" />
