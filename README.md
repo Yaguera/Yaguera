@@ -4,7 +4,7 @@
 <h1 align="center"> Hello, my name is Yago,👋</h1>
 <p align="center">I am studying  to be a Full Stack Web Developer, I am <strong>passionate to discover</strong> new stuffs and search for many ways to solve a problem. Today, I'm pursuing a degree in <strong>Analysis and System Development at UNIFOR</strong> and enrolled in a<strong> Full Stack Python course at EBAC</strong>.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
+<div  align="center" ">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Yaguera&theme=radical&mode=weekly" />
  </div>
  
@@ -16,7 +16,7 @@
 ## My Skills
 
 #### Main Stack:
-
+<a href="https://app.daily.dev/yagogomes"><img src="https://api.daily.dev/devcards/f23127bd915b41beb4a281c8569b2dbd.png?r=8k3" width="400" align="right" alt="Yago Gomes Varela's Dev Card"/></a>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -29,7 +29,7 @@
           
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 #### Studying in this moment:
 
@@ -43,7 +43,7 @@
 &nbsp;
 &nbsp;
 
-<div  align="center" style="margin-bottom:100px">
+<div align="left">
 <img width=50% src="https://github-readme-stats.vercel.app/api?username=yaguera&show_icons=true&theme=dracula" />
  </div>
 
