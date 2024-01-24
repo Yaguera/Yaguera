@@ -13,7 +13,7 @@
 
 
 
-<a href="https://app.daily.dev/yagogomes"><img src="https://github.com/Yaguera/Yaguera/blob/main/devcard.svg" width="300" align="right" margin-bottom="30px"  alt="Yago Gomes Varela's Dev Card"/></a>
+<a href="https://app.daily.dev/yagogomes"><img src="https://github.com/Yaguera/Yaguera/blob/main/devcard.svg" width="400" align="right" margin-bottom="30px"  alt="Yago Gomes Varela's Dev Card"/></a>
 ## My Skills
 
 #### Main Stack:
