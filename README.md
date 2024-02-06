@@ -2,7 +2,7 @@
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">          
 </head>
 <h1 align="center"> Me chamo Yago,👋</h1>
-<p align="center">Sou um desenvolvedor <strong>Front-End</strong> em formação, apaixonado por criar experiências digitais cativantes e funcionais busco iniciar minha carreira profissional. Estou no quarto semestre no curso de <strong>Analise e Desenvolvimento de Sistemas na UNIFOR</strong>, e terminando a formação <strong>Full Stack Python na EBAC</strong> - Escola Britânica de Artes Criativas e Tecnologia.</p>&nbsp;
+<p align="center">Sou um desenvolvedor <strong>Front-End</strong> em formação, apaixonado por criar experiências digitais cativantes e funcionais. Procuro iniciar minha carreira profissional, atualmente estou no quarto semestre no curso de <strong>Analise e Desenvolvimento de Sistemas na UNIFOR</strong>, e terminando a formação <strong>Full Stack Python na EBAC</strong> - Escola Britânica de Artes Criativas e Tecnologia.</p>&nbsp;
 
 <div  align="center" ">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Yaguera&theme=radical&mode=weekly" />
